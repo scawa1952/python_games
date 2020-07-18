@@ -1,3 +1,4 @@
 # ignore the virtual enviornment
 # this will be handled via the requirements.txt file
 /venv
+.idea
